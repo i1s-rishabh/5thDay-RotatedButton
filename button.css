@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
   transition: 0.5s;
 }
@@ -44,7 +45,7 @@ body {
   height: 100%;
   width: 100%;
   background-color: #320d3e;
-  color: #fff;
+  color: white;
   border-radius: 7px;
   text-align: center;
   line-height: 60px;
@@ -53,6 +54,6 @@ body {
 
 .back {
   background-color: #004406;
-  color: #fff;
+  color: white;
   transform: rotateX(180deg);
 }
